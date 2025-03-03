@@ -1,6 +1,6 @@
 # PantherLAB :sparkles:
 
-- Software Consultant businnes mainly focused on LabVIEW, Training, DQMH.
+- Software Consultant businnes mainly focused on LabVIEW Software Development, LabVIEW Training and DQMH Framework Training.
 
 Open Source tools directory:
 
